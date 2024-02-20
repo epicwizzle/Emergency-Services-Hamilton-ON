@@ -1,0 +1,35 @@
+/* "StAuth10244: I Esenwa Michael, 000876059 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else." */
+#map{
+    height: 600px;
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid 
+    #a35cf2 ;
+    border-radius: 10px;
+}
+#map:hover{
+    box-shadow: 0 0 10px 5px #a35cf2;
+}
+
+h1{
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+#body{
+    background-image: url('img/ink071112.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font: 16px Arial, sans-serif;
+}
+
+
+
+
+
